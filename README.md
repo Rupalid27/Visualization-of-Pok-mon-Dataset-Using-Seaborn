@@ -2,7 +2,7 @@
 **Pokemon Dataset Visualization:**
 The Pokemon dataset contains comprehensive information about various Pokemon species, including attributes like type, attack, defense, speed, and more
 
-Key Visualizations Included:
+**Key Visualizations Included:**
 
 Scatter Plots: Comparing Pokemon attributes to identify potential correlations and patterns among the species.
 Swarm Plots: Displaying attributes based on Pokemon types, offering a visual understanding of differences between different types.
